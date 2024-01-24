@@ -14,8 +14,13 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        studentList[0]=s1;
-        System.out.println("Third Commit");
+        
+        System.out.println("Enter a word: ");
+        
+        
+        
     }
+    
+    
     
 }
